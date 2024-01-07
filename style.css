@@ -1,0 +1,216 @@
+
+
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ .headline{
+  background-color: #1D2B53;
+  color: #fff;
+  padding: 15px;
+  margin-top: 34px;
+  width: 670px;
+}
+.headline h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+.headline p{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+
+.des{
+  font-size: 15px;
+  font-weight: 350;
+}
+
+header{
+  display: flex;
+}
+
+.headline hr{
+  border: 1px solid #fff;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.info .if{
+  display: block;
+  padding: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1D2B53;
+}
+.info{
+  margin: 10px;
+  margin-left: 25px;
+  overflow: hidden;
+  max-width: 220px;
+}
+.info a{
+  cursor: pointer;
+  text-decoration:none;
+  
+}
+
+.skills .h{
+  color: #1D2B53;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.skills hr{
+  border: 1px solid #1D2B53;
+  width: 180px;
+  margin-bottom: 10px;
+}
+
+.skills .skl{
+  color: #fff;
+  background-color: grey;
+  border: 1px solid grey;
+  font-weight: 100;
+  border-radius: 5px;
+  padding: 3px 6px 3px 6px;
+  font-size: 13px;
+  font-family: sans-serif;
+  display: inline-bloc;
+}
+
+
+
+.languages .h{
+  color: #1D2B53;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.hobbies .h{
+  color: #1D2B53;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.languages hr{
+  border: 1px solid #1D2B53;
+  width: 180px;
+  margin-bottom: 10px;
+}
+
+.hobbies hr{
+  border: 1px solid #1D2B53;
+  width: 180px;
+  margin-bottom: 10px;
+}
+
+.languages .skl{
+  font-family: sans-serif;
+  color: #1D2B53;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.languages p{
+  color: gray;
+  font-family: sans-serif;
+  font-weight: 200;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.languages{
+  margin-top: 50px;
+ 
+}
+
+.hobbies{
+  margin-top: 50px;
+  
+}
+
+.hobbies .skl{
+  border: 1px solid #1D2B53;
+  border-radius: 5px;
+  padding: 4px 8px 4px 8px;
+}
+
+.content{
+  margin-left: 300px;
+}
+
+.main{
+  width: 670px;
+  margin-left: 25px;
+}
+.wrap{
+  display: flex;
+}
+
+.main h3{
+  
+  color: #1D2B53;
+  font-weight: bold;
+  
+}
+
+.main hr{
+  border: 1px solid #1D2B53;
+  width: 650px;
+  margin-bottom: 8px;
+}
+
+.main{
+  font-family: sans-serif;
+  padding-top: 20px;
+}
+
+.main .heading{
+  color: #1D2B53;
+  font-weight: bold;
+  font-family: 'Goldman', sans-serif;
+  font-family: 'Kanit', sans-serif;
+}
+
+.main .a{
+  margin-bottom: 10px;
+  color: #1D2B53;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.main .company{
+  color: #1D2B53;
+  font-weight: 700;
+}
+
+.main .subinf{
+  font-size: 12px;
+  color: #1D2B53;
+  font-weight: 450;
+  font-style: italic;
+}
+
+.main .work-des{
+  font-size: 11px;
+  color: grey;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.main .org{
+  color: #1D2B53;
+  font-weight: 500;
+  
+}
+
+.main ul li{
+  color: #1D2B53;
+  font-size: 12px;
+  font-weight: 550;
+  margin-left: 30px;
+}
+
+.main h3,p,span{
+  margin-left: 20px;
+}
